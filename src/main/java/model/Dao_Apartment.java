@@ -15,7 +15,7 @@ public class Dao_Apartment {
 	// 各メソッドと共有できるようにメンバー変数に
 	private static String url = "jdbc:h2:tcp://localhost/~/mydb";
 	private static String userName = "sa";
-	private static String password = "student10";
+	private static String password = "****";
 	
 	
 	/**
