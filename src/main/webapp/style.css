@@ -1,0 +1,28 @@
+@charset 'utf-8';
+
+h1{
+    text-align: center;
+}
+
+.link{
+    margin-left: 1.2rem;
+}
+
+
+table{
+    border: double 5px rgb(91, 142, 253);
+    border-collapse: collapse;
+    margin: 1.2rem;
+}
+
+
+table th{
+    background-color: rgb(185, 228, 196);
+}
+
+
+table th, td{
+	border: solid 1px black;
+	text-align: center;
+    padding: 1.125rem;
+}
